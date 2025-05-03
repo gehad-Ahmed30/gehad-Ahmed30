@@ -19,11 +19,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gehad-Ahmed30/count.svg?"  />
-</div>
 
-###
 
 <h3 align="center">Hey there 👋 I'm Gehad Ahmed, welcome to my GitHub!</h3>
 

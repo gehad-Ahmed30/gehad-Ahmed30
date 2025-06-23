@@ -1,9 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<div align="center">
-<a href="https://wakatime.com/@f45803cc-bfcf-4578-af39-ae86b6ebbd0d"><img src="https://wakatime.com/badge/user/f45803cc-bfcf-4578-af39-ae86b6ebbd0d.svg" alt="Total time coded since Jun 18 2025" /></a>
-</div>
+
 
 ###
 
